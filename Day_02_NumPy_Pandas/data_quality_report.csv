@@ -1,0 +1,9 @@
+Metric,Result
+Total Records (Before Cleaning),8
+Total Records (After Cleaning),7
+Total Columns,5
+Missing Values (Before Cleaning),2
+Missing Values (After Cleaning),0
+Duplicate Rows (Before Cleaning),1
+Duplicate Rows (After Cleaning),0
+Duplicate Student IDs (After Cleaning),0

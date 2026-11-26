@@ -1,0 +1,6 @@
+Feature_1,Feature_2,Feature_3,Feature_4,Feature_5,Actual,Predicted,Error_Type,Possible_Reason,Next_Experiment
+0.1986800095474069,-0.9849931258170151,1.0272562791225732,0.714188731633114,-1.2846107949400585,1,0,False Negative,Model failed to identify minority class,Try class weighting and threshold tuning
+-2.839078659485427,-1.1511537365528692,0.34590959541302035,0.17466575093972037,-0.3353249794389467,1,0,False Negative,Model failed to identify minority class,Try class weighting and threshold tuning
+0.570507208354516,2.184096733380456,0.07972480180581998,0.7085179817258298,-2.424795509611788,1,0,False Negative,Model failed to identify minority class,Try class weighting and threshold tuning
+-0.32669621318636405,-0.15032046027187207,-1.0106957189382926,1.0311163912165486,-1.1111866801916142,1,0,False Negative,Model failed to identify minority class,Try class weighting and threshold tuning
+0.9695690257529068,0.7899197221808523,0.41643024378734816,0.5754339680625843,-1.0560761322249181,1,0,False Negative,Model failed to identify minority class,Try class weighting and threshold tuning

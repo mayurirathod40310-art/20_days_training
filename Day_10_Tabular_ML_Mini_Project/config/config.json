@@ -1,0 +1,20 @@
+
+{
+    "dataset_path": "data/student_performance.csv",
+    "target_column": "Result",
+    "id_column": "Student_ID",
+    "numerical_features": [
+        "Age",
+        "Study_Hours",
+        "Attendance"
+    ],
+    "categorical_features": [
+        "Department"
+    ],
+    "test_size": 0.2,
+    "random_state": 42,
+    "model": {
+        "name": "LogisticRegression",
+        "max_iter": 1000
+    }
+}
